@@ -1,0 +1,71 @@
+.navbar-toggler { background-color: rgb(65, 250, 164); }
+.navbar-light .navbar-nav .nav-link:hover { color: rgb(244, 111, 119); }
+.dropdown:hover .nav-link, .dropdown:focus .nav-link { color: rgb(244, 111, 119); }
+.header-area-s2 .navbar-toggler, .header-area-s3 .navbar-toggler { background-color: rgb(65, 250, 164); }
+.header-area-s2 .navbar-light .navbar-nav .nav-link:hover, .header-area-s3 .navbar-light .navbar-nav .nav-link:hover { color: rgb(244, 111, 119); }
+.header-area-s2 .dropdown:hover .nav-link, .header-area-s2 .dropdown:focus .nav-link, .header-area-s3 .dropdown:hover .nav-link, .header-area-s3 .dropdown:focus .nav-link { color: rgb(244, 111, 119); }
+.header-area-s2 .site-header.has-fixed .navbar { background-color: rgb(22, 163, 254); }
+.header-area-s3 .site-header.has-fixed .navbar { background-color: rgb(22, 163, 254); }
+.btn-menu { background-color: rgb(65, 250, 164); color: rgb(255, 255, 255); }
+.btn-menu:hover { background-color: rgb(244, 111, 119); color: rgb(255, 255, 255); }
+.btn-menu-2 { border: 2px solid rgb(244, 111, 119); background-color: transparent; color: rgb(255, 255, 255); }
+.btn-menu-2:hover { background-color: transparent; color: rgb(255, 255, 255); border: 2px solid rgb(232, 122, 129); }
+.aster-alter .header-content .btn-s2:hover { box-shadow: none; background-color: rgb(232, 122, 129); color: rgb(255, 255, 255); }
+.btn-menu-3 { background-color: rgba(255, 255, 255, 0.1); }
+.btn-menu-3:hover { background-color: rgb(65, 250, 164); color: rgb(255, 255, 255); }
+.btn-menu-3:hover i { color: rgb(255, 255, 255); }
+.btn-lg { color: rgb(255, 255, 255); background-color: rgb(244, 111, 119); box-shadow: rgba(244, 111, 119, 0.3) 0px 25px 35px; }
+.btn-lg:hover { background-color: rgb(65, 250, 164); box-shadow: rgba(65, 250, 164, 0.3) 0px 25px 35px; }
+.btn-lg-s3 { background: linear-gradient(to right, rgb(244, 111, 119), rgb(250, 177, 160)); }
+.btn-lg-s3 span { color: rgb(255, 255, 255); }
+.btn-lg-s3::after { background: linear-gradient(to right, rgb(250, 177, 160), rgb(244, 111, 119)); }
+.header-area-s3 .btn-lg-s3 { transition: 0.3s; background: rgb(255, 255, 255); }
+.header-area-s3 .btn-lg-s3 span { color: rgb(65, 250, 164); }
+.header-area-s3 .btn-lg-s3::after { background: rgb(255, 255, 255); }
+.header-area-s3 .btn-lg-s3:hover { transform: translateY(-2px); }
+.btn-link { color: rgb(244, 111, 119); border-bottom: 1px solid rgb(244, 111, 119); }
+.btn-link:focus { color: rgb(65, 250, 164); }
+.btn-link:hover { color: rgb(65, 250, 164); border-bottom: 1px solid rgb(65, 250, 164); }
+.sec-heading h2::before { background-color: rgba(244, 111, 119, 0.2); }
+.team-photo img { border: 8px solid rgb(65, 250, 164); }
+.input-line { border-bottom: 1px solid rgb(65, 250, 164); }
+.input-icon-s3 i { color: rgb(244, 111, 119); }
+.pricing-box .pricing-title { border-bottom: 1px solid rgb(244, 111, 119); }
+.active-box { background-color: rgb(65, 250, 164); }
+.active-box .pricing-title { border-bottom: 1px solid rgb(255, 255, 255); }
+.active-box-s2 { background: linear-gradient(to right, rgb(65, 250, 164), rgb(22, 163, 254)); }
+.card-header .btn-link { color: rgb(65, 250, 164); }
+.card-header .btn-link:hover { border-bottom: none; }
+.card-header .btn-link span { color: rgb(65, 250, 164); }
+.card-body { border-top: 1px solid rgb(65, 250, 164); }
+.up-icon { background-color: rgb(244, 111, 119); box-shadow: rgba(244, 111, 119, 0.3) 0px 15px 40px 0px; }
+.up-icon:hover { background-color: rgb(65, 250, 164); box-shadow: rgba(65, 250, 164, 0.3) 0px 15px 40px 0px; }
+.social-icon { background-color: rgb(244, 111, 119); }
+.social-icon a { color: rgb(255, 255, 255); }
+.social-icon:hover { background-color: rgb(65, 250, 164); }
+.social-icon:hover a { color: rgb(255, 255, 255); }
+.footer-widget-s3 .social-icon { background-color: rgb(244, 111, 119); }
+.footer-widget-s3 .social-icon:hover { background-color: rgb(65, 250, 164); }
+.footer-widget-s3 .social-icon:hover a { color: rgb(255, 255, 255); }
+.footer-text { border-top: 1px solid rgba(65, 250, 164, 0.3); }
+.header-area::before { background: url("../images/shape-a.svg") 100% 100% / cover no-repeat, linear-gradient(rgba(65, 250, 164, 0.1), rgb(248, 251, 255)); }
+.header-area-s2::before { background: url("../images/shape-e.svg") 100% 100% / 100% no-repeat, rgb(65, 250, 164); }
+.config-shape svg { background: linear-gradient(to right, rgba(65, 250, 164, 0.2), rgb(242, 246, 255)); }
+.feature-config::before { background: none; }
+.feature::before { background: url("../images/shape-c.svg") 0% 0% / 100% no-repeat, linear-gradient(rgba(65, 250, 164, 0.7), rgb(248, 251, 255)); }
+.feature-s2::before { background: url("../images/shape-g.svg") 0% 0% / 100% no-repeat, linear-gradient(rgba(65, 250, 164, 0.7), rgb(255, 255, 255)); }
+.team::before { background: url("../images/shape-c.svg") 50% 0px / 100% no-repeat, linear-gradient(rgba(65, 250, 164, 0.7), rgb(248, 251, 255)); }
+.footer-area::before { background: url("../images/shape-d.svg") 0% 0% / 100% no-repeat, linear-gradient(rgba(65, 250, 164, 0.1), rgb(248, 251, 255)); }
+.footer-area-s2::before { background: url("../images/shape-h.svg") 0% 0% / 100% no-repeat, linear-gradient(rgba(65, 250, 164, 0.1), rgb(255, 255, 255)); }
+.tools-s3::before { background: rgb(9, 164, 92); }
+.why-xiom-s4::before { background: rgb(9, 164, 92); }
+.quick-access-icon { background: linear-gradient(to right, rgb(65, 250, 164), rgb(22, 163, 254)); }
+.tools-icon-s3 { background: linear-gradient(to right, rgb(65, 250, 164), rgb(22, 163, 254)); }
+.header-area-s3::before { background: url("../images/shape-i.svg") 100% 100% / 100% no-repeat, linear-gradient(to right, rgb(65, 250, 164) 0%, rgb(22, 163, 254) 100%); }
+.testimonial-client-s3 { background: linear-gradient(to right, rgb(65, 250, 164) 0%, rgb(22, 163, 254) 20%, rgb(22, 163, 254) 100%); }
+.testimonial-text-s3 span { color: rgb(65, 250, 164); }
+.cta-s2::before { background: url("../images/shape-j.svg") 0% 0% / 100% no-repeat, linear-gradient(to right, rgb(22, 163, 254) 0%, rgb(65, 250, 164) 100%); }
+.subscriber-s3::before { background: url("../images/shape-j.svg") 0% 0% / 100% no-repeat, linear-gradient(to right, rgb(22, 163, 254) 0%, rgb(65, 250, 164) 100%); }
+.overlay-bar { background: linear-gradient(to right, rgba(45, 234, 146, 0.7) 0%, rgba(22, 163, 254, 0.7) 100%); }
+.overlay-bar-1 { background: linear-gradient(to right, rgba(22, 163, 254, 0.7) 0%, rgba(65, 250, 164, 0.7) 100%); }
+.login-s2::before { background: url("../images/shape-i.svg") 100% 100% / 100% no-repeat, linear-gradient(to right, rgb(65, 250, 164) 0%, rgb(22, 163, 254) 100%); }
